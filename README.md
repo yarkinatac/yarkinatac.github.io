@@ -1,8 +1,8 @@
 # SE3355 MIDTERM PROJECT
 
-Here is my Midterm project for the SE3355. I used to github pages for the deploy the my project and [my project](https://yarkinatac.github.io/)
+Here is my Midterm project for the SE3355. I used to github pages for the deploy [my project](https://yarkinatac.github.io/)
 
-The project contains HTML, CSS and Javascript files. I used Bootstrap [here is the link](https://getbootstrap.com/)
+The project contains HTML, CSS and Javascript files. I used Bootstrap @5.3.2 [here is the link](https://getbootstrap.com/)
 
 I created the api from the website mocky.io. The api contains 10 companies and 10 subjects.
 
