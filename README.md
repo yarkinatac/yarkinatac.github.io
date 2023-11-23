@@ -1,4 +1,4 @@
-# yarkinatac.github.io
+# SE3355 MIDTERM PROJECT
 
 Here is my Midterm project for the SE3355. I used to github pages for the deploy the my project and [my project](https://yarkinatac.github.io/)
 
