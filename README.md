@@ -14,4 +14,4 @@ styles.css contains the styling of the webpage. It has the code that makes websi
 
 app.js contains the e-mail and phone number validations and also fetch the data from the api, accessing companies and subjects name.
 
-Note: The information taken from API takes a little long to load so you may need to wait for some time.
+#The information taken from API takes a little long to load so you may need to wait for some time.
