@@ -1,0 +1,31 @@
+label,
+      input,
+      select,
+      .form-check-label {
+        color: rgb(22, 141, 62);
+      }
+      body {
+        background-image: url("/background1.jpeg");
+        background-size: 100%;
+      }
+      .container {
+        display: grid;
+        place-items: center;
+        width: 900px;
+        height:100vh;
+        background-color: black;
+        border-radius: 0.7%;
+        opacity: 0.8;
+      }
+      .item {
+        position: absolute;
+        top: 105vh;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .btn-group-lg>.btn, .btn-lg {
+        --bs-btn-padding-y: 0.3rem;
+        --bs-btn-padding-x: 2rem;
+        --bs-btn-font-size: 1.2rem;
+        
+    }
