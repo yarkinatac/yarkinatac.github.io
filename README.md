@@ -8,10 +8,10 @@ I created the api from the website mocky.io. The api contains 10 companies and 1
 
 index.html file contains the backbone of the webpage.
 
-submitform.html is the page you get directed to when the information you fill in the form is correct.
+submitform.html is the page you get directed to when the information submit correctly.
 
-styles.css contains the styling of the webpage. It has the code that makes website responsive.
+style.css contains the styling of the webpage. It has the code that makes website responsive.
 
-app.js contains the e-mail and phone number validations and also fetch the data from the api, accessing companies and subjects name.
+app.js contains the e-mail and phone number validations, the phone number must be the turkish number and also fetch the data from the api, accessing companies and subjects name.
 
 # The information taken from API takes a little long to load so you may need to wait for some time.
