@@ -2,7 +2,7 @@
 
 Here is my Midterm project for the SE3355
 
-The project contains HTML, CSS and Javascript files. I used Bootstrap [here is the link]([github.com/cobanov](https://getbootstrap.com/))
+The project contains HTML, CSS and Javascript files. I used Bootstrap [here is the link](https://getbootstrap.com/)
 
 I created the api from the website mocky.io. The api contains 10 companies and 10 subjects.
 
