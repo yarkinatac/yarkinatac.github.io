@@ -1,31 +1,54 @@
+/* Temel stil ayarları */
 label,
-      input,
-      select,
-      .form-check-label {
-        color: rgb(22, 141, 62);
-      }
-      body {
-        background-image: url("/background1.jpeg");
-        background-size: 100%;
-      }
-      .container {
-        display: grid;
-        place-items: center;
-        width: 900px;
-        height:100vh;
-        background-color: black;
-        border-radius: 0.7%;
-        opacity: 0.8;
-      }
-      .item {
-        position: absolute;
-        top: 105vh;
-        left: 50%;
-        transform: translate(-50%, -50%);
-      }
-      .btn-group-lg>.btn, .btn-lg {
-        --bs-btn-padding-y: 0.3rem;
-        --bs-btn-padding-x: 2rem;
-        --bs-btn-font-size: 1.2rem;
-        
-    }
+input,
+select,
+.form-check-label {
+  color: rgb(22, 141, 62);
+}
+body {
+  background-image: url("/background1.jpeg");
+  background-size: cover; /* Kapsayacak şekilde ayarlandı */
+  background-position: center; /* Merkeze alındı */
+  background-attachment: fixed; /* Sabit arkaplan resmi */
+}
+.container {
+  display: grid;
+  place-items: center;
+  max-width: 95%; /* Genişliği artırıldı */
+  margin: 0 auto; /* Orta hizalama */
+  background-color: black;
+  border-radius: 0.7%;
+  opacity: 0.8;
+  padding: 2rem; /* İç boşluk artırıldı */
+  box-sizing: border-box; /* padding genişliği dahil etmek için box-sizing ayarlandı */
+  height: auto; 
+}
+
+
+.btn-group-lg>.btn, .btn-lg {
+  --bs-btn-padding-y: 0.5rem; 
+  --bs-btn-padding-x: 1.5rem; 
+  --bs-btn-font-size: 1.2rem; 
+  display: block; 
+  width: 100%; 
+  margin-top: 2rem; 
+  margin-bottom: 2rem; 
+}
+
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem; 
+  }
+  .btn-group-lg>.btn, .btn-lg {
+    --bs-btn-padding-x: 1rem; 
+    --bs-btn-font-size: 1rem; 
+  }
+}
+@media (max-width: 576px) {
+  .container {
+    padding: 0.5rem; 
+    border-radius: 0; 
+  }
+  
+}
