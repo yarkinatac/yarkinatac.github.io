@@ -1,6 +1,6 @@
 # yarkinatac.github.io
 
-Here is my Midterm project for the SE3355. I used to github pages for the deploy the my project and [my project](https://getbootstrap.com/(https://yarkinatac.github.io/)
+Here is my Midterm project for the SE3355. I used to github pages for the deploy the my project and [my project](https://yarkinatac.github.io/)
 
 The project contains HTML, CSS and Javascript files. I used Bootstrap [here is the link](https://getbootstrap.com/)
 
