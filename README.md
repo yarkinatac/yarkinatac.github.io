@@ -1,6 +1,6 @@
 # SE3355 MIDTERM PROJECT
 
-Here is my Midterm project for the SE3355. I used to github pages for the deploy [my project]([https://yarkinatac.github.io/](https://65607d4ba9a7b10568e3ad0a--vermillion-starlight-f37b45.netlify.app/)
+Here is my Midterm project for the SE3355. I used to github pages for the deploy [my project](https://65607d4ba9a7b10568e3ad0a--vermillion-starlight-f37b45.netlify.app/)
 
 The project contains HTML, CSS and Javascript files. I used Bootstrap @5.3.2 [here is the link](https://getbootstrap.com/)
 
